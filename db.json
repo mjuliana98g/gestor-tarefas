@@ -1,0 +1,76 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "titulo": "Marcar consulta no dentista",
+      "descricao": "Ligar para a clínica e pedir uma vaga à tarde.",
+      "estado": "pendente",
+      "prioridade": "alta",
+      "dataLimite": "2026-10-17"
+    },
+    {
+      "id": "2",
+      "titulo": "Arrumar o armário",
+      "descricao": "Separar a roupa de verão da roupa de inverno.",
+      "estado": "em-curso",
+      "prioridade": "alta",
+      "dataLimite": "2026-10-18"
+    },
+    {
+      "id": "3",
+      "titulo": "Ler o livro do clube de leitura",
+      "descricao": "Terminar os últimos três capítulos.",
+      "estado": "em-curso",
+      "prioridade": "media",
+      "dataLimite": "2026-10-20"
+    },
+    {
+      "id": "4",
+      "titulo": "Comprar a prenda de anos da mãe",
+      "descricao": "Procurar um livro ou um perfume.",
+      "estado": "pendente",
+      "prioridade": "media",
+      "dataLimite": "2026-10-22"
+    },
+    {
+      "id": "5",
+      "titulo": "Planear as férias de verão",
+      "descricao": "Ver destinos e comparar preços de voos.",
+      "estado": "pendente",
+      "prioridade": "baixa",
+      "dataLimite": "2026-10-27"
+    },
+    {
+      "id": "6",
+      "titulo": "Pagar a conta da luz",
+      "descricao": "Pagar por multibanco antes do fim do prazo.",
+      "estado": "concluida",
+      "prioridade": "media",
+      "dataLimite": "2026-10-15"
+    },
+    {
+      "id": "7",
+      "titulo": "Levar o carro à revisão",
+      "descricao": "Revisão anual na oficina do bairro.",
+      "estado": "concluida",
+      "prioridade": "baixa",
+      "dataLimite": "2026-10-15"
+    },
+    {
+      "id": "8",
+      "titulo": "Fazer as compras da semana",
+      "descricao": "Fruta, legumes, leite e pão.",
+      "estado": "concluida",
+      "prioridade": "media",
+      "dataLimite": "2026-10-16"
+    },
+    {
+      "id": "9",
+      "titulo": "Regar as plantas",
+      "descricao": "Não esquecer a monstera da sala.",
+      "estado": "concluida",
+      "prioridade": "baixa",
+      "dataLimite": "2026-10-16"
+    }
+  ]
+}
